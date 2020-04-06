@@ -1,1 +1,0 @@
-Hello I am writing from my windows machine for the first time from my pi4.
