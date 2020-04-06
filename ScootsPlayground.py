@@ -1,5 +1,5 @@
 from pyfirmata import Arduino, util # Imports arduino important libraries. (research later for better decription.)
-import time #Allows for time based functions such as object.sleep(timeinseconds)
+import time #Allows for time based functions such as time.sleep(timeinseconds)
 
 board = Arduino('COM7') # Defines which port the Arduino board is connected to.
 i = 1
